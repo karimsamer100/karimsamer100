@@ -2,8 +2,6 @@
 <h3 align="center">ML engineer | Data Analyst</h3>
 
 - 📝 [CV](https://drive.google.com/file/d/15MbHL8NQ9T_AWb3PmiPVBPi75N1Ks1mL/view?usp=drive_link)
-(https://drive.google.com/file/d/15MbHL8NQ9T_AWb3PmiPVBPi75N1Ks1mL/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/karim-samer-5965672b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karim-samer-5965672b2/" height="30" width="40" /></a>
