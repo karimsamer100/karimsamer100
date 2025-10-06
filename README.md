@@ -1,7 +1,7 @@
 <h1 align="center">Hey , I'm Karim Samer</h1>
 <h3 align="center">ML engineer | Data Analyst</h3>
 
-- 📝 [CV]([https://drive.google.com/file/d/1YtmB1x1fkDE1UPVU70fnX4ILpqfGOFsx/view?usp=sharing](https://drive.google.com/file/d/18zPplKBrnVpmtxkI7IL4QlGgqvQ_geoL/view?usp=drive_link))
+- 📝 [CV]([https://drive.google.com/file/d/1YtmB1x1fkDE1UPVU70fnX4ILpqfGOFsx/view?usp=sharing](https://drive.google.com/file/d/18zPplKBrnVpmtxkI7IL4QlGgqvQ_geoL/view?usp=drive_link)])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
