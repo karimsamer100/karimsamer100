@@ -1,5 +1,5 @@
 <h1 align="center">Hey , I'm Karim Samer</h1>
-<h3 align="center">ML engineer | Data Analyst</h3>
+<h3 align="center">ML engineer | Data Scientist</h3>
 
 - 📝 [CV](https://drive.google.com/file/d/18zPplKBrnVpmtxkI7IL4QlGgqvQ_geoL/view?usp=sharing)
 
