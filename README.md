@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1mk3r90kUT3bo5Ooup_m-z5FYW8jihQfx/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1QNAL6h4TrwfsK5E-6YVwTN_F3_8SifVg/view?usp=drive_link">
     <img src="https://img.shields.io/badge/📄_Resume-View_CV-blue?style=for-the-badge" alt="Resume"/>
   </a>
   <a href="https://www.linkedin.com/in/karim-samer-5965672b2/">
