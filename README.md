@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1QNAL6h4TrwfsK5E-6YVwTN_F3_8SifVg/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/📄_Resume-View_CV-blue?style=for-the-badge" alt="Resume"/>
+  <a href="https://drive.google.com/file/d/1kOCpw3oRLeqkp9l029VF2GTorJkdKF5B/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄_AI%2FML_CV-View-blue?style=for-the-badge" alt="AI/ML CV"/>
   </a>
   <a href="https://www.linkedin.com/in/karim-samer-5965672b2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
